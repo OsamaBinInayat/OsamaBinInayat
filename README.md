@@ -9,7 +9,7 @@ My name is Osama Bin Inayat and I'm a Database Expert, REST API beginner learner
 
 🤔 I’m looking for help with ... Node and Express JS API's
 
-💬 Ask me about ... Food
+💬 Ask me about ... Anything
 
 😄 Pronouns: ... He/Him
 
